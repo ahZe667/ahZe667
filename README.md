@@ -2,16 +2,16 @@
 
 Data Scientist at Wakacje.pl, previously Data Analyst at LPP. I work on reporting, data pipelines, forecasting and recommendation systems. My analyst experience includes work with Google Cloud Platform.
 
-I build personal applications with Python, SQL, APIs and AI-assisted development. For freelance projects, I focus on data cleanup, repeatable reports and document workflows with clear validation and human review.
+For freelance projects, I automate reports and data processing from CSV/Excel exports and APIs. You receive a working solution, agreed checks and instructions for the next run. I also build document-processing workflows with human review.
 
 ## Selected projects
 
-- [Document parsing and reporting](https://github.com/ahZe667/ksiegowy-ai): Python tools for structured document and CSV processing, with human-controlled submissions.
+- [Flat Hunter workflow](https://github.com/ahZe667/freelance-examples/blob/main/case-studies/flat-hunter.md): multi-source collection, history, deduplication and a ranked shortlist in a local web panel.
+- [Document parsing: input and executed output](https://github.com/ahZe667/freelance-examples/blob/main/case-studies/document-data.md): an existing Python parser demonstrated on synthetic CSV data.
 - [Playlist recommendations](https://github.com/ahZe667/playlist_recommender): a Flask app using ratings, clustering and diverse ranking.
-- [Flat Hunter case study](https://github.com/ahZe667/freelance-examples#multi-source-listing-research): a personal, local research application that collects and validates listings, keeps history, ranks results, and exposes evidence and uncertainty in a web panel. Source code, captured listings and personal search criteria remain private.
 - [Portfolio](https://github.com/ahZe667/freelance-examples): descriptions of further personal projects and professional experience.
 
-Employer code and data are private. Professional descriptions reflect work in a team and do not claim sole authorship.
+Personal projects complement my professional team experience. Employer code and data remain private.
 
 ## Freelance work
 
