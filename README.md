@@ -8,7 +8,7 @@ I build personal applications with Python, SQL, APIs and AI-assisted development
 
 - [Document parsing and reporting](https://github.com/ahZe667/ksiegowy-ai): Python tools for structured document and CSV processing, with human-controlled submissions.
 - [Playlist recommendations](https://github.com/ahZe667/playlist_recommender): a Flask app using ratings, clustering and diverse ranking.
-- [Agent Relay](https://github.com/ahZe667/agent-relay): a FastAPI and SQLite coursework project for authenticated task delivery.
+- [Flat Hunter case study](https://github.com/ahZe667/freelance-examples#multi-source-listing-research): a personal, local research application that collects and validates listings, keeps history, ranks results, and exposes evidence and uncertainty in a web panel. Source code, captured listings and personal search criteria remain private.
 - [Portfolio](https://github.com/ahZe667/freelance-examples): descriptions of further personal projects and professional experience.
 
 Employer code and data are private. Professional descriptions reflect work in a team and do not claim sole authorship.
