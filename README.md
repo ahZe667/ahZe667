@@ -10,7 +10,7 @@ preparation, and joined exports. Focused data-entry and research tasks are also 
 ## Selected projects
 
 - [Flat Hunter workflow](https://github.com/ahZe667/freelance-examples/blob/main/case-studies/flat-hunter.md): multi-source collection, history, deduplication and a ranked shortlist in a local web panel.
-- [Orders to a checked report](https://github.com/ahZe667/freelance-examples/blob/main/case-studies/report-data.md): executed synthetic exports, a result image, and repeatable CSV/JSON output.
+- [Professional reporting and analysis](https://github.com/ahZe667/freelance-examples/blob/main/case-studies/professional-experience.md): LPP e-commerce analytics and Wakacje.pl data-product contributions.
 - [Document parsing: input and executed output](https://github.com/ahZe667/freelance-examples/blob/main/case-studies/document-data.md): an existing Python parser demonstrated on synthetic CSV data.
 - [Playlist recommendations](https://github.com/ahZe667/playlist_recommender): a Flask app using ratings, clustering and diverse ranking.
 - [Portfolio](https://github.com/ahZe667/freelance-examples): descriptions of further personal projects and professional experience.
